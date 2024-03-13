@@ -1,0 +1,8 @@
+# Dependencies
+/text-generative-ai/bin/
+/text-generative-ai/obj/
+
+
+# OpenAI API Key
+OpenAI_API.keys.json
+Text-Generative-AI.sln
